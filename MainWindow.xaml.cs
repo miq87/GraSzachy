@@ -8,7 +8,6 @@ namespace GraSzachy
     /// </summary>
     public partial class MainWindow : Window
     {
-        internal object Grid1;
         private Chessboard myBoard;
         public MainWindow()
         {
